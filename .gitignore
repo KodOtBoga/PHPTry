@@ -1,0 +1,11 @@
+vendor/
+dashboard/
+testapp/
+webalizer/
+img/
+xampp/
+trashcollector.php
+hwcheck.php
+favicon.ico
+applications.html
+bitnami.css
