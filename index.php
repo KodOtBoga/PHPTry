@@ -10,7 +10,9 @@ require_once('vendor/autoload.php');
 // $users = getAllUsers();
 // export('asdas.csv', $users, 'json');
 //importJson('img/test.json');
-
+$try = Request::createFromGlobals();
+dump($try);
+die;
 ?>
 
 <!DOCTYPE html>
